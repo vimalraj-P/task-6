@@ -1,0 +1,32 @@
+.container{
+    margin: auto;
+    width: 80%;
+}
+.row{
+    display: flex;
+}
+
+.col-1{
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+.input-style1{
+    width: 20%;
+    height: 20px;
+}
+
+.input-style{
+    width: 15%;
+    height: 20px;
+}
+
+.textarea-style{
+    width: 35%;
+    height: 80px;
+}
+
+.btn-style{
+    background-color: aqua;
+    font-size: large;
+}
